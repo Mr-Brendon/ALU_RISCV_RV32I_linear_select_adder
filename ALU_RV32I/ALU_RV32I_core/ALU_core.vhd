@@ -1,5 +1,6 @@
 ----------------------------------------------------------------------------------
--- 
+-- MAIN FILE
+--This is an implementation of an ALU with a linear select adder made for RISCV CPU, with RV32I instruction set.
 ----------------------------------------------------------------------------------
 
 
