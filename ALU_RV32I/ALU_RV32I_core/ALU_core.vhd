@@ -3,7 +3,7 @@
 --This is an implementation of an ALU with a linear select adder made for RISCV CPU, with RV32I instruction set.
 --In this inplementation I try to build and ALU with a good resolution of macro blocks inside of it:
 --first of all the files: Carry_lookhaead_adder, Mux_carry_1_0, adder_block_m_bit and core are used to create a linear select adder.
---core_Add_Sub adds the subtraction operation and at the end ALU_core combines this adder to all ALU architecture.
+--core_Add_Sub adds the subtraction operation and at the end ALU_core combines this adder to the all ALU architecture.
 ----------------------------------------------------------------------------------
 
 
