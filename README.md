@@ -1,4 +1,4 @@
-This is an implementation of an ALU with a linear select adder made for RISCV CPU, it work with RV32I instruction set.
+This is an implementation of an ALU with a linear select adder made for RISCV CPU, it works with RV32I instruction set.
 It works with some bits of the instruction word:
 it uses funct7[bit6]-funct3[bit3-2-1]-opcode[bit5] for the following instructions:
 
