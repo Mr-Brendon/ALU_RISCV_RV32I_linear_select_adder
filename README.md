@@ -6,7 +6,7 @@ Typical Instruction Word for arithmetic operation on RV32I instruction set:
 
 
 It uses funct7[bit6]-funct3[bit3-2-1]-opcode[bit5] for the following instructions:
-ATTENTION TRERE ARE SOME PROBLEMS WITH QUANTITY OF BITS IN FUNCT7 AND OPCODE: IT'S NOT STILL FIXED
+(for example bit 5 of opcode means, the fifth number of opcode, not the fifth of the word)
 
 ADD 0-000-1
 
